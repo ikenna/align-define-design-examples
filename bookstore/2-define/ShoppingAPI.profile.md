@@ -1,10 +1,4 @@
-# Shopping API
-
-* Supports the book browsing experience and cart management
-* Scope: Public
-
-
-# API Product profile
+# API Product Profile
 
 | No| Aspect         | Description     |
 |-- |--------------|-----------|
@@ -20,7 +14,7 @@
 |10| Access level | Public |
 
 
-# API interface profile
+# API Interface Profile
 
 | Operation Name       | Description                               | Participants          | Resource(s)       | Emitted Events   | Operation Details                                                          | Traits                     |
 |----------------------|-------------------------------------------|-----------------------|-------------------|------------------|----------------------------------------------------------------------------|----------------------------|
