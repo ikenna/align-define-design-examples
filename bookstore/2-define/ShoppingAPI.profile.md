@@ -4,12 +4,12 @@
 |-- |--------------|-----------|
 |1| API consumers| Developers building affiliate mobile bookshop applications. |
 |2| Core benefit| Supports the book browsing experience and cart management.|
-|3| Business capabilities| 1) Send messags  2) Receive messages 3) Manage contacts 4) Query metadata information on sent and received messags 5) Create message templates|
+|3| Business capabilities| 1) Place an Order  2) Browse for books |
 |4| API product manger      | John Smith |
 |5| API solution | REST API. Connects to the Messaging, Contacts, Notification and Template microservices. | 
-|6| Usage and pricing plans | £0.03 per text message sent.| 
-|7| Documentation and support |Available at developer.acmemessaging.com | 
-|8| API product KPIs | 1) Number of sent text messages 2) Monthly active users 3) API usage growth  | 
+|6| Usage and pricing plans | Free to use. Firm makes a profit on the sale.| 
+|7| Documentation and support |Available at developer.acmebookshop.com | 
+|8| API product KPIs | 1) Number of sales 2) Monthly active users 3) API usage growth  | 
 |9| Security model| OAuth 2.0|
 |10| Access level | Public |
 
