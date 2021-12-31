@@ -34,3 +34,12 @@
 | unitPrice     | The unit price represented as a whole number. For example, $1.99 USD would be 199 |
 |               |                                                                                   |
 
+
+
+## Relationships 
+
+| Resource 1 | Resource 1 properties | Relationship (Dependent / Independent / Associative) |  Resource 2 |
+|-------|---|--------|-------------------------------|
+| Cart         | Cart.books              |  Dependent |  Cart Item |
+| Cart Item          | CartItem.book  | Independent | Book |
+| Book         | Book.authors  | Independent | BookAuthor |
