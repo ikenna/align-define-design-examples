@@ -1,3 +1,7 @@
-# Align-Define-Design Process Examples
+# APIOps Pipeline Template
 
-Examples of the Align-Define-Design API process for use in our [LaunchAny workshops](https://launchany.com/api-training).
+A repository structure template for APIOps continous delivery pipelines. 
+
+
+### Acknowledgements
+Based of ADDR process from the [LaunchAny workshops](https://launchany.com/api-training).
