@@ -37,6 +37,7 @@ We value:
 - Consumer-centric, product-driven API designs over provider-centric, technology-driven API designs.
 - Federated coaching and enabling self-service over centralised enforcement.  
 - Automated over manual governance checks.  
+
 _While there may be value in the items on the right, we value the items on the left more._
 
 # Principles
