@@ -33,11 +33,11 @@ This will enable our APIs to be
 # Values
 
 We value:
-- Inclusive, collaborative API design over exclusive siloed and exclusive design. 
+- Inclusive, collaborative API design over exclusive siloed design efforts. 
 - Consumer-centric, product-driven API designs over provider-centric, technology-driven API designs.
 - Federated coaching and enabling self-service over centralised enforcement.  
-- Automated over manual governance checks
-While there may be value in the items on the right, we value the items on the left more.
+- Automated over manual governance checks.  
+_While there may be value in the items on the right, we value the items on the left more._
 
 # Principles
 1. Champion centralised enterprise governance wide rules with managed exceptions. 
